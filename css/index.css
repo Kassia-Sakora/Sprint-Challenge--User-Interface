@@ -66,6 +66,33 @@ p {
     line-height: 1.4;
 }
 
+.bigbox {
+    width:60%;
+    margin:0 auto;
+    border: 1px dotted black;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	width: 80%;
+}
+
+nav ul li:first-child {
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #282828;
+}
+
+.jumbo {
+    width: 100%;
+    margin: 20px auto;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
