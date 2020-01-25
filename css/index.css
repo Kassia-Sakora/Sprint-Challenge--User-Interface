@@ -80,11 +80,7 @@ nav ul {
     display: flex;
 	justify-content: space-between;
 	align-items: baseline;
-	width: 80%;
-}
-
-nav ul li:first-child {
-    padding-right: 30px;
+	width: 100%;
 }
 
 a {
@@ -207,6 +203,10 @@ a {
     padding: 10px 24px;
     border-radius: 12px;
     background-color: white;
+}
+
+.work-together {
+    margin-bottom: 30px;
 }
 
 .bottom-content {
