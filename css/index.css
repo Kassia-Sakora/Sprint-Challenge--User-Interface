@@ -73,7 +73,7 @@ p {
 }
 
 nav ul {
-	display: flex;
+    display: flex;
 	justify-content: space-between;
 	align-items: baseline;
 	width: 80%;
