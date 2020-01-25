@@ -193,6 +193,11 @@ a {
     padding-right: 0;
 }
 
+.info {
+    border: 1px dotted red;
+    width: 45%;
+}
+
 footer {
     width: 100%;
     background: black;
